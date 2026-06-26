@@ -1,6 +1,6 @@
 # Hi👋 My name is Aryan Saini 
 
- 💫hy About Me: <br>👨‍💻 Hi! I'm a passionate Computer Science student exploring the world of software development — from DSA to full-stack web apps and AI. <br>🎓 B.Tech  3rd year CSE Student (2024–2028) <br>🌱 Learning Full Stack Web Development<br>💻 Interested in JavaScript, React, Next.js<br>🚀 Goal: Become a Full Stack Developer and crack PSU<br>❤️ Loves building web development projects<br>✉️ You can contact me at <a href = "aryansaini83210@gmail.com">aryansaini83210@gmail.com<a>
+ 💫hy About Me:  <br>👨‍💻I'm a passionate Computer Science student exploring the world of software development — from DSA to full-stack web apps and AI. <br>🎓 B.Tech  3rd year CSE Student (2024–2028) <br>🌱 Learning Full Stack Web Development<br>💻 Interested in JavaScript, React, Next.js<br>🚀 Goal: Become a Full Stack Developer and crack PSU<br>❤️ Loves building web development projects<br>✉️ You can contact me at <a href = "aryansaini83210@gmail.com">aryansaini83210@gmail.com<a>
 
 
 ## 🌐 Socials:
